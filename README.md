@@ -5,8 +5,13 @@ Worked on a new rocket company named "SpaceY" that would like to compete with Sp
 Project Steps:
 
 Collected the rocket launch data from the SpaceX API 
+
 Web-scraped the SpaceX table in the wikipedia page to collect Falcon 9 historical launch records 
+
 Performed some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models 
+
 Built an Interactive map with folium to find some geographical patterns about launch sites. 
+
 Built an Interactive dashboard using plotly dash.
+
 Implemented the machine learning classification model to predict if a rocket will land successfuly or not using logistic regression, KNN, desision tree and support vector machine. 
